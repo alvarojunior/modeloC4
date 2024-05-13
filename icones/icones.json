@@ -1,0 +1,108 @@
+{
+  "id" : 1,
+  "name" : "Icones",
+  "description" : "Description",
+  "lastModifiedDate" : "2023-09-20T14:56:27Z",
+  "lastModifiedAgent" : "structurizr-javascript",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlICJJY29uZXMiIHsKICAgIG1vZGVsIHsKICAgICAgICBlbGVtZW50ICJUw610dWxvIDIiICJ0ZWNub2xvZ2lhIiAiRGVzY3Jpw6fDo28gZGUgdW0gZWxlbWVudG8uIiAiQVdTIFMzIgogICAgICAgIGVsZW1lbnQgIlTDrXR1bG8gMyIgInRlY25vbG9naWEiICJEZXNjcmnDp8OjbyBkZSB1bSBlbGVtZW50by4iICJBV1MgUHJvbWV0aGV1cyIKICAgICAgICBlbGVtZW50ICJUw610dWxvIDQiICJ0ZWNub2xvZ2lhIiAiRGVzY3Jpw6fDo28gZGUgdW0gZWxlbWVudG8uIiAiR3JhZmFuYSIKICAgICAgICBlbGVtZW50ICJUw610dWxvIDUiICJ0ZWNub2xvZ2lhIiAiRGVzY3Jpw6fDo28gZGUgdW0gZWxlbWVudG8uIiAiQVdTIFJEUyIKICAgICAgICBlbGVtZW50ICJUw610dWxvIDYiICJ0ZWNub2xvZ2lhIiAiRGVzY3Jpw6fDo28gZGUgdW0gZWxlbWVudG8uIiAiVmljdG9yaWEgTWV0cmljcyIKICAgIH0KCiAgICB2aWV3cyB7CgogICAgICAgIGN1c3RvbSAiSWNvbmVzIiAiRXhlbXBsb3MgZGUgw41jb25lcyIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYXV0b2xheW91dAogICAgICAgIH0KCiAgICAgICAgdGhlbWVzIGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9jYXNzaW9ib3Rhcm8vbW9kZWxvQzQvbWFpbi9pY29uZXMvdGhlbWUuanNvbgogICAgICAgIHRoZW1lcyBodHRwczovL3N0YXRpYy5zdHJ1Y3R1cml6ci5jb20vdGhlbWVzL2FtYXpvbi13ZWItc2VydmljZXMtMjAyMy4wMS4zMS9pY29ucy5qc29uCiAgICB9Cn0K"
+  },
+  "configuration" : { },
+  "model" : {
+    "customElements" : [ {
+      "id" : "2",
+      "tags" : "Element,AWS Prometheus",
+      "properties" : {
+        "structurizr.dsl.identifier" : "fd0c19cb-857e-4e78-adda-52b6fb6040b0"
+      },
+      "name" : "Título 3",
+      "description" : "Descrição de um elemento.",
+      "metadata" : "tecnologia"
+    }, {
+      "id" : "4",
+      "tags" : "Element,AWS RDS",
+      "properties" : {
+        "structurizr.dsl.identifier" : "76af07d3-44f2-4ac5-a434-2e17a20d25a0"
+      },
+      "name" : "Título 5",
+      "description" : "Descrição de um elemento.",
+      "metadata" : "tecnologia"
+    }, {
+      "id" : "5",
+      "tags" : "Element,Victoria Metrics",
+      "properties" : {
+        "structurizr.dsl.identifier" : "e4ae28e3-6f2e-4b05-89b9-dbdf3d1d26fd"
+      },
+      "name" : "Título 6",
+      "description" : "Descrição de um elemento.",
+      "metadata" : "tecnologia"
+    }, {
+      "id" : "1",
+      "tags" : "Element,AWS S3",
+      "properties" : {
+        "structurizr.dsl.identifier" : "d99e70c5-501c-4830-86ce-acde3c6e38eb"
+      },
+      "name" : "Título 2",
+      "description" : "Descrição de um elemento.",
+      "metadata" : "tecnologia"
+    }, {
+      "id" : "3",
+      "tags" : "Element,Grafana",
+      "properties" : {
+        "structurizr.dsl.identifier" : "ce7e2b9d-9b16-4a39-ae89-b0c5fb3dd462"
+      },
+      "name" : "Título 4",
+      "description" : "Descrição de um elemento.",
+      "metadata" : "tecnologia"
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "customViews" : [ {
+      "key" : "Icones",
+      "order" : 1,
+      "title" : "Exemplos de Ícones",
+      "dimensions" : {
+        "width" : 3850,
+        "height" : 700
+      },
+      "automaticLayout" : {
+        "implementation" : "Graphviz",
+        "rankDirection" : "TopBottom",
+        "rankSeparation" : 300,
+        "nodeSeparation" : 300,
+        "edgeSeparation" : 0,
+        "vertices" : false
+      },
+      "elements" : [ {
+        "id" : "1",
+        "x" : 200,
+        "y" : 200
+      }, {
+        "id" : "2",
+        "x" : 950,
+        "y" : 200
+      }, {
+        "id" : "3",
+        "x" : 1700,
+        "y" : 200
+      }, {
+        "id" : "4",
+        "x" : 2450,
+        "y" : 200
+      }, {
+        "id" : "5",
+        "x" : 3200,
+        "y" : 200
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "themes" : [ "https://raw.githubusercontent.com/cassiobotaro/modeloC4/main/icones/theme.json", "https://static.structurizr.com/themes/amazon-web-services-2023.01.31/icons.json" ],
+      "terminology" : { },
+      "metadataSymbols" : "SquareBrackets",
+      "lastSavedView" : "Icones"
+    }
+  }
+}
